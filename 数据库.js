@@ -1,13 +1,13 @@
 home:
-[{cont:"清仓秒杀",img:"/assets/images/1.jpg",router:"/onsale_2"},
-{cont:"每日推荐", img:"/assets/images/2.jpg",router:"/onsale_0"},
-{cont:"限时特卖", img:"/assets/images/5.jpg",router:"/onsale"},
-{cont:"旅游搜索", img:"/assets/images/4.jpg",router:"/search"},
-{cont:"当季热点", img:"/assets/images/7.jpg",router:"/hot"},
-{cont:"周末尾单", img:"/assets/images/8.jpg",router:"/onsale_5"},
-{cont:"在线咨询", img:"/assets/images/6.jpg",router:"/ask"},
-{cont:"我的订单", img:"/assets/images/3.jpg",router:"/order"},
-{cont:"排行榜",   img:"/assets/images/9.jpg",router:"/rank"}]
+[{cont:"清仓秒杀",img:"/upload/list/1.jpg",router:"/onsale_2"},
+{cont:"每日推荐",img:"/upload/list/2.jpg",router:"/onsale_0"},
+{cont:"限时特卖",img:"/upload/list/5.jpg",router:"/onsale"},
+{cont:"旅游搜索",img:"/upload/list/4.jpg",router:"/search"},
+{cont:"当季热点",img:"/upload/list/7.jpg",router:"/hot"},
+{cont:"周末尾单",img:"/upload/list/8.jpg",router:"/onsale_5"},
+{cont:"在线咨询",img:"/upload/list/6.jpg",router:"/ask"},
+{cont:"我的订单",img:"/upload/list/3.jpg",router:"/order"},
+{cont:"排行榜",img:"/upload/list/9.jpg",router:"/rank"}]
 
 
 清仓秒杀:onsale_2

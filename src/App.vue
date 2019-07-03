@@ -18,7 +18,7 @@
   import {mapGetters} from 'vuex'
   import * as types from './store/types.js'
 
-  export default {
+  export default{
     name: 'app',
     components: {
       Header1,Footer,Header2
@@ -46,4 +46,5 @@
   }
 </script>
 <style>
+*{margin:0;padding:0;list-style:none;}
 </style>

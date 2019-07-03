@@ -1,14 +1,15 @@
-let state = {
-    count:0,
-
-}
-export default {
+export default{
     bNav1:false,
     bNav2:false,
     bLoading:false,
+
+
     banner:[],
     home:[],
-    user:[],
+    user:{
+        err:1
+    },
+    hot:[],
     ask:[],
     search:{},
     order:[],
@@ -16,5 +17,5 @@ export default {
     onsale_0:[],
     onsale_2:[],
     onsale_5:[],
-    rank:[]
+    rank:[],
 }

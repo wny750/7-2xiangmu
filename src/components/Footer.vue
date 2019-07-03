@@ -5,10 +5,10 @@
 			<span style="background-size:100%;">
 				<img src="../assets/images/navbg4.png" width=100%>
 				<div style="position:absolute;top:0px;left:0px;">
-					<router-link to="/page11">每日推荐</router-link>
+					<!-- <router-link to="/page11">每日推荐</router-link>
 					<a href="onsale_2.html">清位秒杀</a>
 					<a href="onsale.html">限时特卖</a>
-					<a href="hot.html">当季热点</a>
+					<a href="hot.html">当季热点</a> -->
 				</div>
 			</span>
 			</li>
@@ -16,10 +16,10 @@
 			<span style="background-size:100%;">
 				<img src="../assets/images/navbg4.png" width=100%>
 				<div style="position:absolute;top:0px;left:0px;">
-					<a href="list.jsp">目的地</a>
+					<!-- <a href="list.jsp">目的地</a>
 					<a href="rank.html">排行榜</a>
 					<a href="search.html">旅游搜索</a>
-					<a href="javascript:beginTalk()">在线咨询</a>
+					<a href="javascript:beginTalk()">在线咨询</a> -->
 				</div>
 			</span>
 			</li>
@@ -27,11 +27,11 @@
 			<span style="background-size:100%;">
 				<img src="../assets/images/navbg5.png" width=100%>
 				<div style="position:absolute;top:0px;left:0px;">
-					<a href="#">我的订单</a>
+					<!-- <a href="#">我的订单</a>
 					<a href="#">会员资料</a>
 					<a href="#">关联微信</a>
 					<a href="#">联系我们</a>
-					<a href="#">进入主站</a>
+					<a href="#">进入主站</a> -->
 				</div>
 			</span>
 			</li>

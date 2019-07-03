@@ -17,6 +17,7 @@
         activated(){
             this.$store.dispatch(types.UPDATE_HOME)
             this.$store.dispatch(types.UPDATE_BANNER)
+            
         }
     }
 </script>  
